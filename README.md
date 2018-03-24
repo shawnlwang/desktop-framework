@@ -1,2 +1,2 @@
 # desktop-framework
-A desktop application write with vue.js
+A desktop application write with php
