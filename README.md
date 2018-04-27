@@ -1,2 +1,2 @@
 # desktop-framework
-A desktop application write with php
+A slim framework write with php
